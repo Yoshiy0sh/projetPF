@@ -1,0 +1,3 @@
+profile = janestreet
+let-binding-spacing=compact
+ocaml-version = 5.3
